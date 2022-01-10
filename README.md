@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+### Hi, I am Liam.
 
 - Occasional tweeter 
   - [![Twitter Follow](https://img.shields.io/twitter/follow/liamfoneill?style=social)](https://twitter.com/liamfoneill)
