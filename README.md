@@ -5,5 +5,6 @@
 - Sporadic YouTuber
   - [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCoC8gf327ehDCAyZpLHGQOA?style=social)](https://www.youtube.com/channel/UCoC8gf327ehDCAyZpLHGQOA)
   - [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCoC8gf327ehDCAyZpLHGQOA?style=social)](https://www.youtube.com/channel/UCoC8gf327ehDCAyZpLHGQOA)
-
+- Confuser Linker
+  - [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
